@@ -1,0 +1,2 @@
+-e file:///home/ichimonji10/code/pulp-smash/#egg=pulp_smash
+-e .[dev]
